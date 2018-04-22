@@ -1,0 +1,1 @@
+export const FACEBOOK_LOGIN_SUCEESS = "facebook_login_success"
